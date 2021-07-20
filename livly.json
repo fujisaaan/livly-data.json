@@ -7,11 +7,11 @@
     "size": "小",
     "ecology": "モノリヴリーはじまりの種。",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "赤林檎の実",
       "quantity": 10
@@ -25,11 +25,11 @@
     "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "ドングリ林檎の実",
       "quantity": 10
@@ -43,11 +43,11 @@
     "size": "大",
     "ecology": "説明",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "青ドロリ林檎の実",
       "quantity": 10
@@ -61,11 +61,11 @@
     "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "電気キノコ",
       "quantity": 10
@@ -79,11 +79,11 @@
     "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "知恵の木の実",
       "quantity": 10
@@ -97,11 +97,11 @@
     "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": "野苺の実",
       "quantity": 10
@@ -115,11 +115,11 @@
     "size": "極小",
     "ecology": "説明",
     "implementation": "2021-07-19",
-    "color": [
-      255,
-      255,
-      255
-    ],
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
     "recipe": {
       "seed": [
         "赤林檎の実",
