@@ -1,129 +1,136 @@
 [
   {
     "no": 1,
-    "name": "ピグミー",
-    "scientificName": "pygmy",
-    "size": 2,
-    "ecology": "説明",
+    "jaName": "ピグミー",
+    "enName": "pygmy",
+    "scientificName": "splendor salve mono",
+    "size": "小",
+    "ecology": "モノリヴリーはじまりの種。",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "赤林檎の実",
       "quantity": 10
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   },
   {
     "no": 2,
-    "name": "コルヌレプス",
-    "scientificName": "cornu_lepus",
-    "size": 2,
+    "jaName": "コルヌレプス",
+    "enName": "cornu lepus",
+    "scientificName": "Lepus cornutus mono",
+    "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "ドングリ林檎の実",
       "quantity": 10
-    },
-    "color": {
-      "r": 200,
-      "g": 200,
-      "b": 200
     }
   },
   {
     "no": 3,
-    "name": "モモス",
-    "scientificName": "momoth",
-    "size": 4,
+    "jaName": "モモス",
+    "enName": "momoth",
+    "scientificName": "Nasus reptabundus mono",
+    "size": "大",
     "ecology": "説明",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "青ドロリ林檎の実",
       "quantity": 10
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   },
   {
     "no": 4,
-    "name": "ブラックドック",
-    "scientificName": "black_dog",
-    "size": 2,
+    "jaName": "ブラックドック",
+    "enName": "black dog",
+    "scientificName": "Electricitas ater mono",
+    "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "電気キノコ",
       "quantity": 10
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   },
   {
     "no": 5,
-    "name": "ツノリムル",
-    "scientificName": "tsunoriml",
-    "size": 2,
+    "jaName": "ツノリムル",
+    "enName": "tsunoriml",
+    "scientificName": "Cornu sollers mono",
+    "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "知恵の木の実",
       "quantity": 10
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   },
   {
     "no": 6,
-    "name": "パキケ",
-    "scientificName": "pakike",
-    "size": 2,
+    "jaName": "パキケ",
+    "enName": "pakike",
+    "scientificName": "Puella corniger mono",
+    "size": "小",
     "ecology": "説明",
     "implementation": "2021-07-15",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
-      "seed": "○○",
+      "seed": "野苺の実",
       "quantity": 10
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   },
   {
     "no": 7,
-    "name": "ネオピグミー",
-    "scientificName": "neo_pygmy",
-    "size": 1,
+    "jaName": "ネオピグミー",
+    "enName": "neo pygmy",
+    "scientificName": "Splendor novus mono",
+    "size": "極小",
     "ecology": "説明",
     "implementation": "2021-07-19",
+    "color": [
+      255,
+      255,
+      255
+    ],
     "recipe": {
       "seed": [
-        "○○",
-        "○○",
-        "○○"
+        "赤林檎の実",
+        "ドングリ林檎の実",
+        "青ドロリ林檎の実"
       ],
       "quantity": [
-        6,
-        6,
-        6
+        7,
+        7,
+        7
       ]
-    },
-    "color": {
-      "r": 255,
-      "g": 255,
-      "b": 255
     }
   }
 ]
