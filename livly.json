@@ -1,0 +1,129 @@
+[
+  {
+    "no": 1,
+    "name": "ピグミー",
+    "scientificName": "pygmy",
+    "size": 2,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  },
+  {
+    "no": 2,
+    "name": "コルヌレプス",
+    "scientificName": "cornu_lepus",
+    "size": 2,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 200,
+      "g": 200,
+      "b": 200
+    }
+  },
+  {
+    "no": 3,
+    "name": "モモス",
+    "scientificName": "momoth",
+    "size": 4,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  },
+  {
+    "no": 4,
+    "name": "ブラックドック",
+    "scientificName": "black_dog",
+    "size": 2,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  },
+  {
+    "no": 5,
+    "name": "ツノリムル",
+    "scientificName": "tsunoriml",
+    "size": 2,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  },
+  {
+    "no": 6,
+    "name": "パキケ",
+    "scientificName": "pakike",
+    "size": 2,
+    "ecology": "説明",
+    "implementation": "2021-07-15",
+    "recipe": {
+      "seed": "○○",
+      "quantity": 10
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  },
+  {
+    "no": 7,
+    "name": "ネオピグミー",
+    "scientificName": "neo_pygmy",
+    "size": 1,
+    "ecology": "説明",
+    "implementation": "2021-07-19",
+    "recipe": {
+      "seed": [
+        "○○",
+        "○○",
+        "○○"
+      ],
+      "quantity": [
+        6,
+        6,
+        6
+      ]
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  }
+]
