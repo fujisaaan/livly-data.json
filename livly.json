@@ -2,7 +2,7 @@
   {
     "no": 1,
     "jaName": "ピグミー",
-    "enName": "pygmy",
+    "enName": "PYGMY",
     "scientificName": "Splendor salve mono",
     "size": "小",
     "ecology": "モノリヴリーはじまりの種。気性はおだやかでマイペース。好奇心旺盛。安心したり感情が高ぶった時などに耳をピクピクとさせる。クラシックピグミーに比べ毛並みが滑らかで、その見た目からアイスクリームピグミーと呼ぶ者もいるが、からだはポカポカと温かい。",
@@ -20,7 +20,7 @@
   {
     "no": 2,
     "jaName": "コルヌレプス",
-    "enName": "cornu lepus",
+    "enName": "CORNU LEPUS",
     "scientificName": "Lepus cornutus mono",
     "size": "小",
     "ecology": "頭に角を持つまるでウサギのようなリヴリー。中世時代に生まれたリヴリーたちの先祖にもいた種と考えられている。照れ屋のため、知らない相手の前にはなかなか姿を現さない。飼い主の指に甘えたり毛づくろいをするのが好きで、おっとりとした一面も持つ。",
@@ -38,7 +38,7 @@
   {
     "no": 3,
     "jaName": "モモス",
-    "enName": "momoth",
+    "enName": "MOMOTH",
     "scientificName": "Nasus reptabundus mono",
     "size": "大",
     "ecology": "大きな体を持つリヴリー。いつもやや下向きで、葉っぱの下の隠れた餌の匂いを嗅ぎ分ける。地面ばかり気にしているので、背中に乗られてもほとんど気にすることはない。とてもマイペース。名前の由来はマンモス。",
@@ -56,7 +56,7 @@
   {
     "no": 4,
     "jaName": "ブラックドック",
-    "enName": "black dog",
+    "enName": "BLACK DOG",
     "scientificName": "Electricitas ater mono",
     "size": "小",
     "ecology": "イヌのようなリヴリー。視力が弱い代わりに嗅覚が発達している。体内に電気が発生するほどの高エネルギーを蓄え、活発に行動する。雷が鳴り出すと、とても興奮する。フードのように見える毛は、水をよく弾き内まで通さない。噛み癖のある個体が多い。",
@@ -74,7 +74,7 @@
   {
     "no": 5,
     "jaName": "ツノリムル",
-    "enName": "tsunoriml",
+    "enName": "TSUNORIML",
     "scientificName": "Cornu sollers mono",
     "size": "小",
     "ecology": "本のある環境を好むリヴリー。本を食い破るブックワームが好物。大きな耳を本にあてて、虫が這う微音を聞き分ける。左右の角はページをめくるときに使う他、地面に突き刺し地中の振動を感知、耳で地表の音を聞くことで遠くにいる虫や天敵の存在を察知できる。",
@@ -92,7 +92,7 @@
   {
     "no": 6,
     "jaName": "パキケ",
-    "enName": "pakike",
+    "enName": "PAKIKE",
     "scientificName": "Puella corniger mono",
     "size": "小",
     "ecology": "先端が巻かれた角とスカートの様に広がった長い毛が特徴のリヴリー。大きな角は頭を守る様に回り込んで生えている。やや前足を左右に拡げているのは、二足歩行のバランスを補助するため。周囲の状況に過敏に反応する事はなく、常におっとりと落ち着いている。",
@@ -109,8 +109,26 @@
   },
   {
     "no": 7,
+    "jaName": "オーガ",
+    "enName": "OGRE",
+    "scientificName": "Monstrum purpureus mono",
+    "size": "最大",
+    "ecology": "とりわけ大きな体を持つ怪力のリヴリー。そのため神話などに登場する怪物オーガの名で呼ばれている。気性はやや大人しく比較的飼育しやすいので、初めての飼育者に向いていると言われる。顎がとても強いので指を噛まれない様に要注意。",
+    "implementation": "2021-07-29",
+    "color": {
+      "r": 127,
+      "g": 41,
+      "b": 162
+    },
+    "recipe": {
+      "seed": "楽園のヤシの実",
+      "quantity": 14
+    }
+  },
+  {
+    "no": 8,
     "jaName": "ネオピグミー",
-    "enName": "neo pygmy",
+    "enName": "NEO PYGMY",
     "scientificName": "Splendor novus mono",
     "size": "極小",
     "ecology": "ピグミーの亜種。基本種より小型で、人懐っこい。ピグミーらしく好奇心旺盛で、さらに非常にマイペースであるため、たまに危なっかしい行動も見られるが、飼育の際に特別に注意する必要はない。リヴリー飼い主初心者には飼いやすい種といえる。",
